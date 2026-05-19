@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="AI Content Assistant/Content API.csproj" />
-  <Project Path="LLMProxyAPI/LLM Proxy API.csproj" />
-</Solution>
