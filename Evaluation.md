@@ -1,6 +1,6 @@
 ## Purpose
 
-This document records a minimal evaluation for AI Content Assistant 2.0: criteria for good output, the two user prompts used (with saved responses), a rate‑limit test, a short reflection.
+This document records an evaluation for AI Content Assistant 2.0. It contains criteria for good output, two tests with expected success as well an rate-limit error test and a short reflection.
 
 ## Criteria for good output
 
